@@ -1,11 +1,4 @@
-# Assignment 3.1
-
-- Everything mentioned in the assignment has been implemented.
-- **Bonus** :
-    - King’s Leviathan Axe has also been implemented.
-    - Dragon Character has been added, it can fly over walls.
-    - Queen's Eagle Arrow has been added.
-    - Movement avoiding walls has also been implemented.
+# Extended Clash of Clans
 
 - To run the game : `python3 game.py`
 - To view replays : `python3 replay.py`  and select the replay you want to watch according to mentioned date and time.

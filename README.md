@@ -1,5 +1,6 @@
 # Extended Clash of Clans
 
+![Animated GIF](./clashClanDemo.gif)
 - To run the game : `python3 game.py`
 - To view replays : `python3 replay.py`  and select the replay you want to watch according to mentioned date and time.
 - For Victory : All buildings apart from walls get destroyed from the map in all three levels.
